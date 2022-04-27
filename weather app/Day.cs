@@ -10,7 +10,6 @@ namespace weather_app
     {
         public string date, currentTemp, currentTime, condition, location, tempHigh, tempLow,
             windSpeed, windDirection, precipitation, visibility;
-
         public Day()
         {
             date = currentTemp = currentTime = condition = location = tempHigh = tempLow
